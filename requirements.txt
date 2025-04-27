@@ -1,0 +1,7 @@
+streamlit
+openai
+pyttsx3
+speechrecognition
+selenium
+webdriver-manager
+pandas
